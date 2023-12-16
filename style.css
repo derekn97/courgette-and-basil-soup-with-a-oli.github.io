@@ -34,9 +34,14 @@ header h1 {
     margin-top: 20px;
 }
 
+.ingredients h4 {
+    margin-bottom: 5px;
+}
+
 h1 {
     text-align: center;
 }
+
 h4 {
     text-align: left;
 }
